@@ -1,0 +1,9 @@
+h3 
+{
+	width: 400pt;
+	height: 4cm;
+	padding: 50px;
+	margin: 40px;
+	border: 4px double maroon;
+	background: rgb(255,105,180);
+}
